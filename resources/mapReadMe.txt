@@ -1,0 +1,10 @@
+0 = nothing
+1 = ground top
+2 = ground
+3 = random enemy
+4 = power up
+5 = playerStart
+6 = lavablock
+7 =
+8 = boss
+9 = goal
